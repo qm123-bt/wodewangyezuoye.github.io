@@ -350,6 +350,13 @@ nav ul li:hover{
 	margin-top:20px;
 	background:white;
 }
+.music{
+    position: absolute;
+    top: 0px;
+    margin-left: 677px;
+	z-index: 50;
+	display: none;
+}
 
 .right-fun .model .title{
 	border-left:3px solid red;
